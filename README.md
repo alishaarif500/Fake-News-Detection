@@ -20,5 +20,5 @@ The project uses real and fake news datasets containing news titles and article 
  Project File
 - `Fake_New_Detection.ipynb` — Main Jupyter Notebook containing the project code.
  Author
-Alisha Malik
+Alisha Arif
 GitHub: https://github.com/alishaarif500
